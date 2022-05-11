@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-first-website/static/css/main.05a2e977.css",
+    "main.js": "/react-first-website/static/js/main.68269443.js",
+    "static/js/787.e403dcb9.chunk.js": "/react-first-website/static/js/787.e403dcb9.chunk.js",
+    "static/media/digital_maketing.jpeg": "/react-first-website/static/media/digital_maketing.27d3a3513dad7debcf33.jpeg",
+    "static/media/android.jpg": "/react-first-website/static/media/android.1f11e755400dc7c37ed6.jpg",
+    "static/media/app.png": "/react-first-website/static/media/app.24a83bd447f57a239817.png",
+    "static/media/web.jpeg": "/react-first-website/static/media/web.86cf92767ecaeb8d0c51.jpeg",
+    "static/media/software_development.jpg": "/react-first-website/static/media/software_development.bd8da51255084188c985.jpg",
+    "static/media/rocket-dribbble.webp": "/react-first-website/static/media/rocket-dribbble.2129f0e91e506590905d.webp",
+    "static/media/app1.png": "/react-first-website/static/media/app1.464ff6d2837d77fa7830.png",
+    "static/media/about.webp": "/react-first-website/static/media/about.0c1a21edf18b87b04dd4.webp",
+    "static/media/img3.png": "/react-first-website/static/media/img3.047f612d25cafda94f2c.png",
+    "static/media/ios.png": "/react-first-website/static/media/ios.583ffb760992bea30b96.png",
+    "static/media/logo.svg": "/react-first-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-first-website/index.html",
+    "main.05a2e977.css.map": "/react-first-website/static/css/main.05a2e977.css.map",
+    "main.68269443.js.map": "/react-first-website/static/js/main.68269443.js.map",
+    "787.e403dcb9.chunk.js.map": "/react-first-website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a2e977.css",
+    "static/js/main.68269443.js"
+  ]
+}
